@@ -1,0 +1,48 @@
+---
+title: "Presentation Labaly"
+author: "Labaly TOURE"
+institute: "Université du Sine Saloum El-hâdj ibrahima NIASS, Sénégal"
+editor: visual
+format: html
+menu: True
+---
+
+::: panel-tabset
+## Foncier
+
+# Contexte
+
+# Objectifs
+
+-   Analyser les différents systèmes de tenure foncière et leurs impacts sur les droits des communautés locales.
+-   Analyser spatiale de la typologie et des modes de résolutions des conflits fonciers dans la région de Kaolack.
+-   Étudier la dynamique spatio temporelle de l'occupation et de l'usage des terres
+
+# Resultats
+
+## Dynamiques des agro industries
+
+# Contexte
+
+# Methdologie
+
+# Resultats
+
+## Typha
+
+Dynamique spatio-temporelle et les formes de valorisation du typha dans le delta du fleuve Sénégal
+
+Étude cartographique des biomasses de typha disponibles dans la zone de Rosso Mauritanie(en cours)
+
+# Contexte
+
+Le typha, macrophyte aquatique à prolifération rapide est une plante locale qui se développe sur les berges du fleuve Sénégal. Sa prolifération rapide par le concours de plusieurs circonstances à des impacts sur l'environnement et sur l'agriculture et la pêche, activités exercées à Rosso Mauritanie. Afin de réduire les effets indésirables de la présence du typha, de plus en plus, il est considéré comme une ressource du fait des nombreuses potentialités qu'il offre. En effet, l'utilisation de produits dérivés du typha par les populations (pour la construction et dans les tâches), est une alternative aux autres sources d'énergies. 
+
+# Methdologie
+
+L'utilisation des images satellitaires Sentinel a permis de faire une analyse des différentes unités d'occupation du sol. 5 898 ha sont occupés par le typha dans la zone de Rosso. Le découpage de la zone d'étude en trois sous-zones (Nord-Est, Est et Ouest) a permis d'avoir un aperçu sur les espaces à forte concentration de typha. Ce travail a permis, après une consultation des acteurs, de sélectionner trois sites pour la cartographie fine et l'échantillonnage du typha. Il s'agit : de Rgheiwatt, du Village des Pêcheurs et de Tounguène. Les observations faites sur la base des images de drone montrent que le typha est plus présent dans la zone Nord-Est de Rosso. 
+
+# Resultats
+
+## Autres
+:::
