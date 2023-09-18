@@ -1,7 +1,7 @@
 ---
 title: "Travaux de recherche"
 author: "Labaly TOURE"
-institute: "Université du Sine Saloum El-hâdj ibrahima NIASS - Chercheur associé PRODIG"
+institute: "Enseignant-Chercheur - Chercheur associé PRODIG"
 editor: visual
 bibliography: biblio.bib
 format: 
@@ -23,10 +23,11 @@ menu: TRUE
 
 -   Enseignant Chercheur - USSEIN
 
--   Responsable de la filière Géomatique (Licence et bentot le **Master**)
+-   Responsable de la filière Géomatique (Licence et bientot le **Master**)
 
--   Thématiques: Télédétection, Géomatique, SIG, Dynamiques foncières, R pour le spatial, Dynamiques des agro industries
+-   **Thématiques**: Télédétection, Géomatique, SIG, Dynamiques foncières, R pour le spatial, Dynamiques des agro industries
 
+-  **Terrains**: Vallée du fleuve Sénégal, Bassin arachidier, Moyenne Casamance, Ferlo
 
 
 ## Travaux de recherche
@@ -46,16 +47,21 @@ menu: TRUE
 ### Objectifs
 
 -   Analyser les différents systèmes de tenure foncière et leurs impacts sur les droits des communautés locales.
--   Analyser la typologie et des modes de résolutions des conflits fonciers dans la région de Kaolack.
+-   Analyser la typologie et les modes de resolutions des conflits fonciers dans la vallée du fleuve Sénégal et la région du Sine Saloum.
 -   Étudier la dynamique spatio temporelle de l'occupation et de l'usage des terres
 
 ### Resultats
 
-![Acteurs gestion fonciere](images/foncier1.png) ![Modes d\'accés au foncier](images/foncier%202.jpg) ![Modes d\'accés au foncier](images/foncier%204.jpg)
+![Acteurs gestion fonciere](images/foncier1.png) 
+![Modes d\'accés au foncier](images/foncier%202.jpg) ![Modes d\'accés au foncier](images/foncier%204.jpg)
+![Conflits fonciers](images/conflits2.png)
+
+
 
 ## **Dynamiques des agro industries**
 
 ### Contexte
+
 - Stratégies d'implantations des agro industries 
 - Marché foncier
 - Impacts sur l'agriculture familiale
@@ -64,7 +70,7 @@ menu: TRUE
 - Collecte de données: collectivités territoriales, agriculteurs, éléveurs
 - Cartographie
 - Télédétection(dynamique surfaces agricoles)
-
+- 
 
 ### Resultats
 ![delta](images/agr.png)
@@ -73,17 +79,18 @@ menu: TRUE
 
 ## **Typha**
 
-Dynamique spatio-temporelle et les formes de valorisation du typha dans le delta du fleuve Sénégal
+Dynamique spatio-temporelle et  formes de valorisation du typha dans le delta du fleuve Sénégal
 
-Étude cartographique des biomasses de typha disponibles dans la zone de Rosso Mauritanie(en cours)
+Typha : de la plante mal aimée à la ressource prisée.
+Suivi des biomasses de typha disponibles 
 
 ### Contexte
 
-Le typha, macrophyte aquatique à prolifération rapide est une plante locale qui se développe sur les berges du fleuve Sénégal. Sa prolifération rapide par le concours de plusieurs circonstances à des impacts sur l'environnement et sur l'agriculture et la pêche, activités exercées à Rosso Mauritanie. Afin de réduire les effets indésirables de la présence du typha, de plus en plus, il est considéré comme une ressource du fait des nombreuses potentialités qu'il offre. En effet, l'utilisation de produits dérivés du typha par les populations (pour la construction et dans les tâches), est une alternative aux autres sources d'énergies.
+Le typha, macrophyte aquatique à prolifération rapide est une plante locale qui se développe sur les berges du fleuve Sénégal. Sa prolifération rapide par le concours de plusieurs circonstances a des impacts sur l'environnement et sur l'agriculture et la pêche. Afin de réduire les effets indésirables de la présence du typha, de plus en plus, il est considéré comme une ressource du fait des nombreuses potentialités qu'il offre. En effet, l'utilisation de produits dérivés du typha par les populations est une alternative aux autres sources d'énergies.
 
 ### Methodologie
 
-L'utilisation des images satellitaires Sentinel a permis de faire une analyse des différentes unités d'occupation du sol. 5 898 ha sont occupés par le typha dans la zone de Rosso. Le découpage de la zone d'étude en trois sous-zones (Nord-Est, Est et Ouest) a permis d'avoir un aperçu sur les espaces à forte concentration de typha. Ce travail a permis, après une consultation des acteurs, de sélectionner trois sites pour la cartographie fine et l'échantillonnage du typha. Il s'agit : de Rgheiwatt, du Village des Pêcheurs et de Tounguène. Les observations faites sur la base des images de drone montrent que le typha est plus présent dans la zone Nord-Est de Rosso.
+L'utilisation des images satellitaires Sentinel a permis de faire une analyse des différentes unités d'occupation du sol. 5 898 ha sont occupés par le typha dans la zone de Rosso. Le découpage de la zone d'étude en trois sous-zones (Nord-Est, Est et Ouest) a permis d'avoir un aperçu sur les espaces à forte concentration de typha.
 
 ### Resultats
 
@@ -91,8 +98,7 @@ L'utilisation des images satellitaires Sentinel a permis de faire une analyse de
 
 ## **Occupation du sol**
 
-Suivi satellitaire de la dynamique des grandes métropoles africaines – application au pôle urbain de Diamniado
-
+Suivi satellitaire de la dynamique des grandes métropoles africaines – application au pôle urbain de Diamniado.
 
 ### Contexte
 - Dakar, grand monstre urbain
@@ -111,11 +117,15 @@ Suivi satellitaire de la dynamique des grandes métropoles africaines – applic
 
 - Les territoires du sel - Karalan sy
 
-- Accidents de la route - Emmanuel Bonnet, Robien, Laetitia
+- Accidents de la route - Emmanuel Bonnet, Robin, Laetitia
+
+- MOOC Geomatique et Santé 
+
+- Projet de recherche sur la gouvernance fonciere(USSEIN-GIZ)
 
 
 
-## Publications
+## **Publications**
 
 -   Labaly Toure, Boubou Aldiouma Sy ,2022, Cartographie par télédétection optique des variations spatiotemporelles (2000-2021) de la couverture végétale des paysages forestiers de la région de Sédhiou (moyenne Casamance), Revue de géographie du laboratoire Leïdi --\_« Dynamiques des territoires et développement » Université Gaston Berger, Saint Louis du Sénégal, numéro 28, décembre 2022, ISSN 0851 -- 2515, 198-260
 
@@ -142,6 +152,9 @@ Suivi satellitaire de la dynamique des grandes métropoles africaines – applic
 -   Christian Castellanet Souleymane Diallo Labaly Toure Minh Cong Le Cuan Guillaume Boisset Aline Hubert Aminata Ndir, 2018, Etude pour l'évaluation des ďesoins pour le contrôle du typha dans le delta du fleuve au Sénégal et en Mauritanie, OMVS <https://cda-omvs.org/wp-content/uploads/2019/03/14864_Rapport-d%E2%80%99%C3%A9tat-des-lieux-et-bilan-des-m%C3%A9thodes-de-lutte-contre-le-typha_GRET.pdf>
 
 -   Charl-Thom Bayer, Mercedes de los Santos, Seydi Aliou Tall , Labaly Toure, ,2022. Rapport sur l'état de l'information foncière au Sénégal <https://landportal.org/node/112678>
+
+-Labaly Toure, Olivier Ruë, Luc Descroix, Yasmin Bouaita, S. Niang, et al.. Des cartes et des atlas comme outils de gouvernance : une application aux zones littorales d'Afrique de l'Ouest. Sciences participatives, gouvernance des patrimoines et territoires des deltas : actes du colloque international du Laboratoire Mixte International "Patrimoines et Territoires de l'Eau" du 11 au 14 mai 2016 à l'Université Gaston Berger de Saint-Louis du Sénégal, L'Harmattan, pp.227-240, 2017. ⟨ird-01555891⟩
+
 :::
 
 
